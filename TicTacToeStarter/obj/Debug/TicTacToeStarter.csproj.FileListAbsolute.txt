@@ -1,6 +1,0 @@
-C:\Users\MattyK\Code\TicTacToeStarter\TicTacToeStarter\bin\Debug\TicTacToeStarter.exe.config
-C:\Users\MattyK\Code\TicTacToeStarter\TicTacToeStarter\bin\Debug\TicTacToeStarter.exe
-C:\Users\MattyK\Code\TicTacToeStarter\TicTacToeStarter\bin\Debug\TicTacToeStarter.pdb
-C:\Users\MattyK\Code\TicTacToeStarter\TicTacToeStarter\obj\Debug\TicTacToeStarter.csprojResolveAssemblyReference.cache
-C:\Users\MattyK\Code\TicTacToeStarter\TicTacToeStarter\obj\Debug\TicTacToeStarter.exe
-C:\Users\MattyK\Code\TicTacToeStarter\TicTacToeStarter\obj\Debug\TicTacToeStarter.pdb
